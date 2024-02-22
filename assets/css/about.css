@@ -1,0 +1,15 @@
+body{
+    margin: 10px;
+}
+.navbar {
+    transition: all 1.3s ease;
+ }
+ 
+.navbar.reduce {
+    transform: translateY(100%);
+}
+.name{
+    color: rgb(47, 68, 255);
+    font-size: large;
+}
+ 
